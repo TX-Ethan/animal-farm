@@ -6,4 +6,6 @@
 2. 奶酪计划: 路径规划玩法。
 3. 躲猫猫: 记忆翻牌玩法。
 
+[PixiJS](https://pixijs.com/8.x/guides/getting-started/intro) + [Three.js](https://threejs.org/)
+
 本仓库仅存放构建后产物
